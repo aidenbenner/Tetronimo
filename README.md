@@ -6,10 +6,10 @@ Puzzle pieces descend from the top of the screen. Manuever pieces to form full r
 Clearing more rows at one time will get you more points. 
 
 # Controls
-Space - instant drop
-A     - Rotate CW
-D     - Rotate CC
-Arrow Keys - Manuever piece 
+- Space - instant drop
+- A     - Rotate CW
+- D     - Rotate CC
+- Arrow Keys - Manuever piece 
 
 
 # Demo
@@ -28,7 +28,7 @@ About to score
 
 About to lose
 
-![Aoub to lose](http://imgur.com/Lxi5hZ4)
+![About to lose](http://imgur.com/Lxi5hZ4)
 
 
 
