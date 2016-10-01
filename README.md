@@ -16,19 +16,19 @@ Arrow Keys - Manuever piece
 
 Normal gameplay
 
-[Gameplay](http://imgur.com/0hz3fIu)
+![Gameplay](http://imgur.com/0hz3fIu)
 
 Poor stacking
 
-[Poor stacking](http://imgur.com/y8M62TP)
+![Poor stacking](http://imgur.com/y8M62TP)
 
 About to score 
 
-[About to score](http://imgur.com/epF4KJN)
+![About to score](http://imgur.com/epF4KJN)
 
 About to lose
 
-[Aoub to lose](http://imgur.com/Lxi5hZ4)
+![Aoub to lose](http://imgur.com/Lxi5hZ4)
 
 
 
