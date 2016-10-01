@@ -16,7 +16,7 @@ Clearing more rows at one time will get you more points.
 
 Normal gameplay
 
-![Gameplay](http://i.imgur.com/0hz3fIu)
+![Gameplay](http://i.imgur.com/0hz3fIu.png)
 
 Poor stacking
 
